@@ -24,7 +24,7 @@
 
 🚀 Global perspective and a strong commitment to collaboration and continuous learning, having lived in China for five years. 
 
-🌱 When I'm not coding, you might find me improving my golf swing or riding my trying out new food places.
+🌱 When I'm not coding, you might find me improving my golf swing or trying out new food places.
 
 <!-- Connect with me -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanphoen) • [Portfolio](https://www.ryanphoen.com/)
