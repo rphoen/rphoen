@@ -16,10 +16,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
 
 🔭 Dedicated to leveraging technology to tackle real-world challenges. With experience at ATT Digiverse, Pilgrim Partners Asia, and Helicap, I’ve honed skills in **software development**, **quantitative analysis**, and **system design**. 
 
